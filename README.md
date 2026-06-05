@@ -12,7 +12,7 @@ This repository implements a full machine learning pipeline including explorator
 protein-tertiary-structure/
 │
 ├── data/
-|   ├── .gitkeep
+|   ├── CASP.csv
 ├── images/
 |   ├── actual_vs_predicted_rmsd.png
 │   ├── correlation_heatmap.png
