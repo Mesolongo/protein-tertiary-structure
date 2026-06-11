@@ -12,12 +12,12 @@ This repository implements a full machine learning pipeline including explorator
 protein-tertiary-structure/
 │
 ├── data/
-|   ├── CASP.csv
+|   └── CASP.csv
 ├── images/
 |   ├── actual_vs_predicted_rmsd.png
 │   ├── correlation_heatmap.png
 │   ├── distribution_of_data.png
-|   ├── feature_importances.png
+|   └── feature_importances.png
 ├── notebooks/
 │   ├── model_training.ipynb
 |   └── preprocessing.ipynb
